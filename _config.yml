@@ -1,15 +1,5 @@
-
-title: <p align="center"> Vamshi </p>
+title: Vamshi
 logo: /assets/img/vamshi.JPG
-
-description:
- 
-  
-  <br>   
-  I'm currently working with Infosys as a PeopleSoft developer.I have 14 years of experience in IT
-  <br>
-  </p>
-
-
-
-theme: jekyll-theme-minimal
+description: Minimal is a theme for GitHub Pages.
+show_downloads: true
+google_analytics:
